@@ -1,4 +1,4 @@
-﻿namespace FlatSettings.Api.PlaceHolderForOtherProjects.Ports;
+﻿namespace FlatSettings.Api.PlaceHolderForNonApiProjects.Ports;
 
 public interface ISomeServiceUsingVSettings
 {

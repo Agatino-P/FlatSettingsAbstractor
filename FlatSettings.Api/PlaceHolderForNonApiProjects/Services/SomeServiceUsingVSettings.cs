@@ -1,8 +1,7 @@
-﻿using System.Security.Cryptography.X509Certificates;
-using FlatSettings.Api.PlaceHolderForOtherProjects.Configuration;
-using FlatSettings.Api.PlaceHolderForOtherProjects.Ports;
+﻿using FlatSettings.Api.PlaceHolderForNonApiProjects.Configuration;
+using FlatSettings.Api.PlaceHolderForNonApiProjects.Ports;
 
-namespace FlatSettings.Api.PlaceHolderForOtherProjects.Services;
+namespace FlatSettings.Api.PlaceHolderForNonApiProjects.Services;
 
 public class SomeServiceUsingVSettings : ISomeServiceUsingVSettings
 {

@@ -1,5 +1,4 @@
-using FlatSettings.Api.PlaceHolderForOtherProjects.Configuration;
-using FlatSettings.Api.PlaceHolderForOtherProjects.Ports;
+using FlatSettings.Api.PlaceHolderForNonApiProjects.Configuration;
 
 namespace FlatSettings.Api;
 
